@@ -2,7 +2,9 @@
 developing some project from Microchip 
 
 
+git clone https://github.com/MilesChen-Taiwan/SAM9x60_OPCUS_Modbus.git
 
+cd SAM9x60_OPCUS_Modbus
 
 git clone https://github.com/open62541/open62541.git -b v1.3.4
 
@@ -22,6 +24,9 @@ linux-gnueabi-gcc
 
 make
 
+cd .
+
+cd.
 
 mkdir bin
 
